@@ -1,23 +1,25 @@
-# GOIT HTML/CSS Homework 04
+# GOIT HTML/CSS Homework 05
 
-Module 4. Decorative Effects
+Module 5. Forms & Accessibility
 
 ## Topics Covered
 
-- Backgrounds
-- Box shadows
-- SVG graphics
-- Pseudo-elements
-- Positioning elements
-- CSS transitions
-- 2D transforms
+- Forms
+- Form styling
+- Input elements
+- Textarea
+- Radio buttons
+- Checkboxes
+- Select
+- Modal window
+- Backdrop
 
 ## Technologies
 
 - HTML5
 - CSS3
 - Flexbox
-- SVG
+- Modern Normalize
 
 ## Author
 
