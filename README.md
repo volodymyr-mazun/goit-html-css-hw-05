@@ -1,26 +1,25 @@
 # GOIT HTML/CSS Homework 05
 
-Module 5. Forms & Accessibility
+Module 5. Forms and Accessibility
 
 ## Topics Covered
 
-- Forms
-- Form styling
+- HTML forms
 - Input elements
-- Textarea
-- Radio buttons
-- Checkboxes
-- Select
+- Textarea and select elements
+- Form labels and attributes
+- Radio buttons and checkboxes
+- Accessible form elements
 - Modal window
-- Backdrop
+- Form styling
+- Focus and hover states
 
 ## Technologies
 
 - HTML5
 - CSS3
-- Flexbox
-- Modern Normalize
+- SVG
 
 ## Author
 
-Volodymyr Mazun
+Volodymyr Masun
