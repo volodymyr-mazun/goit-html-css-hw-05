@@ -9,7 +9,6 @@ Module 5. Forms and Accessibility
 - Textarea and select elements
 - Form labels and attributes
 - Radio buttons and checkboxes
-- Accessible form elements
 - Modal window
 - Form styling
 - Focus and hover states
